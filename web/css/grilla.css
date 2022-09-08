@@ -1,0 +1,22 @@
+section#grilla {
+    margin-top: 45px;
+}
+
+section#grilla li {
+    margin-bottom: 24px;
+    font-size: 21px;
+    display: block;
+    width: 358px;
+    text-align: center;
+    padding-top: 11px;
+    border-radius: 24px;
+    padding-bottom: 11px;
+    color: #3E3931;
+    transition: all .2s ease-in-out;
+}
+
+section#grilla li:hover{
+   transform: scale(1.1); 
+}
+
+

@@ -1,0 +1,243 @@
+.costado{
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagen{
+    width : 45px;
+    position: relative;
+}
+
+.imagen img{
+    position: absolute;
+    top:81px;
+    right: 211px;
+}
+
+h7{
+    width: 24px;
+    text-align: center;
+    border-radius: 3px
+        
+}
+
+h7#A01 {
+    position: absolute;
+    right: 409px;
+    top: 224px;
+    cursor: pointer;
+}
+
+h7#A02 {
+    position: absolute;
+    right: 379px;
+    top: 224px;
+    cursor: pointer;
+}
+
+h7#A03 {
+    position: absolute;
+    right: 336px;
+    top: 224px;
+    cursor: pointer;
+}
+
+h7#A04 {
+    position: absolute;
+    right: 306px;
+    top: 224px;
+    cursor: pointer;
+}
+
+h7#A05 {
+    position: absolute;
+    right: 409px;
+    top: 270px;
+    cursor: pointer;
+}
+
+h7#A06 {
+    position: absolute;
+    right: 379px;
+    top: 270px;
+    cursor: pointer;
+}
+
+h7#A07 {
+    position: absolute;
+    right: 336px;
+    top: 270px;
+    cursor: pointer;
+}
+
+h7#A08 {
+    position: absolute;
+    right: 306px;
+    top: 270px;
+    cursor: pointer;
+}
+
+h7#A09 {
+    position: absolute;
+    right: 409px;
+    top: 318px;
+    cursor: pointer;
+}
+
+h7#A10 {
+    position: absolute;
+    right: 379px;
+    top: 318px;
+    cursor: pointer;
+}
+
+h7#A11{
+    position: absolute;
+    right: 336px;
+    top: 318px;
+    cursor: pointer;
+}
+
+h7#A12 {
+    position: absolute;
+    right: 306px;
+    top: 318px;
+    cursor: pointer;
+}
+
+h7#A13 {
+    position: absolute;
+    right: 410px;
+    top: 364px;
+    cursor: pointer;
+}
+
+h7#A14 {
+    position: absolute;
+    right: 379px;
+    top: 364px;
+    cursor: pointer;
+}
+
+h7#A15 {
+    position: absolute;
+    right: 336px;
+    top: 364px;
+    cursor: pointer;
+}
+
+h7#A16 {
+    position: absolute;
+    right: 306px;
+    top: 364px;
+    cursor: pointer;
+}
+
+h7#A17 {
+    position: absolute;
+    right: 410px;
+    top: 411px;
+    cursor: pointer;
+}
+
+h7#A18 {
+    position: absolute;
+    right: 380px;
+    top: 411px;
+    cursor: pointer;
+}
+
+h7#A19 {
+    position: absolute;
+    right: 336px;
+    top: 411px;
+    cursor: pointer;
+}
+
+h7#A20 {
+    position: absolute;
+    right: 306px;
+    top: 411px;
+    cursor: pointer;
+}
+h7#A21 {
+    position: absolute;
+    right: 410px;
+    top: 458px;
+    cursor: pointer;
+}
+
+h7#A22 {
+    position: absolute;
+    right: 380px;
+    top: 458px;
+    cursor: pointer;
+}
+
+h7#A23 {
+    position: absolute;
+    right: 336px;
+    top: 458px;
+    cursor: pointer;
+}
+
+h7#A24 {
+    position: absolute;
+    right: 306px;
+    top: 458px;
+    cursor: pointer;
+}
+h7#A25 {
+    position: absolute;
+    right: 410px;
+    top: 504px;
+    cursor: pointer;
+}
+
+h7#A26 {
+    position: absolute;
+    right: 380px;
+    top: 504px;
+    cursor: pointer;
+}
+
+h7#A27 {
+    position: absolute;
+    right: 336px;
+    top: 504px;
+    cursor: pointer;
+}
+
+h7#A28 {
+    position: absolute;
+    right: 306px;
+    top: 504px;
+    cursor: pointer;
+}
+h7#A29 {
+    position: absolute;
+    right: 410px;
+    top: 551px;
+    cursor: pointer;
+}
+
+h7#A30 {
+    position: absolute;
+    right: 380px;
+    top: 551px;
+    cursor: pointer;
+}
+
+h7#A31 {
+    position: absolute;
+    right: 336px;
+    top: 551px;
+    cursor: pointer;
+}
+
+h7#A32 {
+    position: absolute;
+    right: 306px;
+    top: 551px;
+    cursor: pointer;
+}

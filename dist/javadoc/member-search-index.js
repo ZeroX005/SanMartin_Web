@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Conex","c":"ConexionDB","l":"ConexionDB()","u":"%3Cinit%3E()"},{"p":"Conex","c":"ConexionDB","l":"obtenerConexión()","u":"obtenerConexi%C3%B3n()"}];updateSearchResults();
